@@ -1,0 +1,1 @@
+test git submodule update in main pro
